@@ -1,0 +1,7 @@
+Used Abstract Window Toolkit classes, such as Graphics2D and Image, to retrieve images from local file system and render the game window. 
+
+Created Graphics User Interface (GUI) by using Swing JFrame in Board class
+
+Made custom ActionListener buttons to receive user input and corresponding panels for each column using Swing JPanel functionalities.
+
+
